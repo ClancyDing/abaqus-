@@ -22,3 +22,4 @@
 添加了current_process变量跟踪当前运行的进程
 添加了should_terminate标志区分停止和终止操作
 增强的进程管理，确保正确清理进程资源
+<img width="1013" height="846" alt="图片" src="https://github.com/user-attachments/assets/0ba5cadd-213f-448d-ac09-7cc14d9b6d93" />
