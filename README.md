@@ -1,4 +1,9 @@
-主要更新内容：
+不只兼容ABAQUS2024
+abq2024  ==》 abaqus 2024 版
+abq6145  ==》 abaqus 6.14.5 版
+abq6144  ==》 abaqus 6.14.4 版
+------------------------------
+
 1. CPU核心数输入功能
 在顶部工具栏添加了CPU核心数输入框
 默认值为4核心
@@ -22,4 +27,7 @@
 添加了current_process变量跟踪当前运行的进程
 添加了should_terminate标志区分停止和终止操作
 增强的进程管理，确保正确清理进程资源
+
+
+
 <img width="1013" height="846" alt="图片" src="https://github.com/user-attachments/assets/0ba5cadd-213f-448d-ac09-7cc14d9b6d93" />
